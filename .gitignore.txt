@@ -1,13 +1,10 @@
 # compiled output  
 /dist  
 /tmp  
-/out-tsc
-/bazel-out
-
-# Node
-/node_modules
-npm-debug.log
-yarn-error.log 
+/out-tsc  
+  
+# dependencies  
+/node_modules  
   
 # IDEs and editors  
 /.idea  
