@@ -1,0 +1,13 @@
+{
+  "example": { "prop": "propExample" },
+  "tasks": [
+    {
+      "id": 1,
+      "text": "one"
+    },
+    {
+      "id": 2,
+      "text": "two"
+    }
+  ]
+}
